@@ -1,4 +1,4 @@
 [submodule "libs/hbb_common"]
 	path = libs/hbb_common
 	url = https://github.com/dinglei2025/hbb_common
-        branch = dev
+    branch = dev
